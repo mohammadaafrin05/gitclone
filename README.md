@@ -1,2 +1,4 @@
 # GitClone
-This is a gitclne of git and vs.
+This is a gitclone of git and vs.
+# Aafrin
+I am a student
