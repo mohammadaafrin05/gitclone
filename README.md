@@ -1,2 +1,2 @@
-# gitclone
-this is a gitclne of git and vs
+# GitClone
+This is a gitclne of git and vs.
